@@ -1,0 +1,25 @@
+{
+  "name": "gaka",
+  "version": "0.1.0",
+  "description": "JS Render Engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aerze/gaka.git"
+  },
+  "keywords": [
+    "render"
+  ],
+  "author": "Gus Suarez <@mythrilco>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aerze/gaka/issues"
+  },
+  "homepage": "https://github.com/aerze/gaka#readme",
+  "dependencies": {
+    "htmlparser2": "^3.8.3"
+  }
+}
